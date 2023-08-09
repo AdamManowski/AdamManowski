@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AdamManowski
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning SQL
